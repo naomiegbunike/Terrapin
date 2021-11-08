@@ -14,4 +14,4 @@ credits: true
 
 ## About the Collection
 
-I will edit this later!
+I will edit this later
